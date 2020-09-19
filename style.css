@@ -309,7 +309,7 @@ footer {
         float: none;
     }
 
-    .sp_none {
+    .sp-none {
         display: none;
     }
 
@@ -340,9 +340,13 @@ footer {
         text-align: center;
     }
 
-    .left_contant {
+    .left_content {
         float: none;
         width: 100%;
+    }
+
+    .discription_title:first-child {
+        margin-top: 20px;
     }
 
     .right_content {
